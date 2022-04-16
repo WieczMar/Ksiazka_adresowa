@@ -1,7 +1,10 @@
 # Ksiazka_adresowa
-The address book is a console program written in the C ++ procedural language.
-Created with clean code and DRY principles. 
-It allows many users you create their account and easily add, edit, store and search for address contacts.
-One of my first programs written in Polish language.
+Program is designed for polish language users. <br />
+The unlogged user is welcomed by the main menu where they have 3 options: registration, login and exit program.
+After registration the user can log in and select such options in menu as: add new recipient, edit, delete, search for recipients by first name, 
+second name or display all recipients. The user can also change their password. <br />
+The program stores recipients data such as name, telephone number, e-mail, home address. <br />
+All users account data and recipients data are saved in two separate text files. <br />
+<br />
 Sample screen:
 ![alt text](https://raw.githubusercontent.com/WieczMar/Ksiazka_adresowa/main/README_images/MENU_sample.png)
